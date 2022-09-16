@@ -121,7 +121,7 @@ global.author = '                「 DisDik MOD DEV  あ」'
 /*============== LOGO ==============*/
 global.thumb = 'https://i.ibb.co/PWTh5DX/Haruka.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/PWTh5DX/Haruka.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://i.ibb.co/PWTh5DX/Haruka.jpg'
 global.thumbs = ['https://i.ibb.co/PWTh5DX/Haruka.jpg']
 global.fla = 'https://i.ibb.co/PWTh5DX/Haruka.jpg'
 global.flaaa2 = [

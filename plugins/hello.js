@@ -6,15 +6,15 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow",
+    mediaUrl: "https://youtube.com/channel/UCEc2cXfVxhloTUU1Np9UPNg",
     mediaType: 2,
-    description: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow", 
-    title: 'whmods-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+    description: "https://youtube.com/channel/UCEc2cXfVxhloTUU1Np9UPNg", 
+    title: 'DisDik MOD DEV',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
 }
-handler.customPrefix = /^(hallo|hello|alo|allo)$/i
+handler.customPrefix = /^(hallo|banh|bang|hai|p|oi|oy|woi|cuk|cuy|assalamualaikum|asalamualaikum|hello|alo|allo)$/i
 handler.command = new RegExp
 
 export default handler

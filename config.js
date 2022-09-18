@@ -37,12 +37,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCEc2cXfVxhloTUU1Np9UPNg' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = 'Gk Punya' //dana
+global.povo = 'Gk Punya' //ovo
+global.pgopay = 'Gk Punya' //gopay
+global.plinkaja = 'Gk Punya' //link aja
+global.ppulsa = '081225377760' //telkomsel
+global.ppulsa2 = '082223124102' // kalau ada kartu lain isi aja
 global.psaweria = 'enggak ada :v'
 
 /*============== NOMOR ==============*/
